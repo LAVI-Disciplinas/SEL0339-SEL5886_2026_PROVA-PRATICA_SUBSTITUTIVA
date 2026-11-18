@@ -4,7 +4,7 @@
 
 ### PROVAS PRÁTICAS
 
- - [Prova Prática 1 Substitutiva(PP1-SUB)](PP1/SUB_Prova_Prática_01_SEL0339_SEL5886_(2026).ipynb)
+ - [Prova Prática 1 Substitutiva (PP1-SUB)](PP1/SUB_Prova_Prática_01_SEL0339_SEL5886_(2026).ipynb)
 ---
 
 Laboratory of Computer Vision ([Lavi](http://iris.sel.eesc.usp.br/lavi/))  
